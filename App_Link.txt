@@ -1,0 +1,4 @@
+AI Course Recommender System - Live App
+
+Streamlit App:
+https://ai-course-recommender-system-abqqyupeopte6yrchn7wgy.streamlit.app/
