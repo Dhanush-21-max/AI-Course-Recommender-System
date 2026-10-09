@@ -1,0 +1,21 @@
+# Data manipulation and numerical computing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and recommendation experiments
+scikit-learn
+scipy
+
+# Deep learning
+tensorflow
+
+# Interactive web application
+streamlit
+
+# Jupyter notebook support
+jupyter
+ipykernel
